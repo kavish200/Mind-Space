@@ -2,7 +2,6 @@
 
 > A mental wellness platform powered by AI, providing confidential support, cognitive tests, and community connection for campus students.
 
-[![Deploy to GitHub Pages](https://github.com/YOUR_USERNAME/Mind-Space/workflows/Deploy%20to%20GitHub%20Pages/badge.svg)](https://github.com/YOUR_USERNAME/Mind-Space/actions)
 
 ## 🌐 Live Demo
 
@@ -150,3 +149,4 @@ For questions or issues:
 **Made with ❤️ for student mental wellness**
 
 </div>
+

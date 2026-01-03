@@ -24,6 +24,7 @@ export default defineConfig(({ mode }) => {
         outDir: 'dist',
         sourcemap: false,
         minify: 'esbuild'
-      }
+      },
+      publicDir: 'public'
     };
 });
